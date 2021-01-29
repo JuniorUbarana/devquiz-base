@@ -1,6 +1,8 @@
 {
   "name": "with-styled-components",
   "version": "1.0.0",
+  "name": "devquiz-base",
+  "version": "1.0.1",
   "scripts": {
     "dev": "next",
     "build": "next build",
